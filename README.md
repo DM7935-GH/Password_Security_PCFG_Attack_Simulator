@@ -5,7 +5,7 @@
 The code consists of a single .IPYNB file, and can be run in either a local Jupyter Notebook environment, or via the Google Colab link below.
 
 Google Colab Notebook Online Link:
-https://colab.research.google.com/drive/1UjRmw23g8707qupQPpmApiibLFHN1F5S#scrollTo=T6tQu67ji2Em
+https://colab.research.google.com/drive/1UjRmw23g8707qupQPpmApiibLFHN1F5S
 
 
 To run the code:
